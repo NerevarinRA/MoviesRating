@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FilmsRating</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Гость</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_favourites">Избранное</string>
+    <string name="menu_authorization">Авторизация</string>
+
+    <string name="menu_SecondFragment">Информация о фильме</string>
+    <string name="menu_RegFragment">Регистрация</string>
+
+
+
+    <string-array name="zhanr_sort">
+        <item>Добавить фильтр жанров</item>
+        <item>детектив</item>
+        <item>драма</item>
+
+        <item>триллер</item>
+        <item>артхаус</item>
+        <item>боевик</item>
+        <item>научная фантастика</item>
+        <item>коммедия</item>
+        <item>фантастика</item>
+        <item>мюзикл</item>
+        <item>мелодрама</item>
+        <item>трагедия</item>
+        <item>биография</item>
+        <item>приключения</item>
+
+        <item>фэнтези</item>
+    </string-array>
+
+    <string-array name="all_sort">
+        <item>рейтинг(по убыванию)</item>
+        <item>рейтинг(по возрастанию)</item>
+
+        <item>дата выхода(новейшие)</item>
+        <item>дата выхода(старейшие)</item>
+    </string-array>
+</resources>
